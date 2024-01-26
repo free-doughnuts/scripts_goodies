@@ -18,9 +18,9 @@
 > > Manjaro Linux
 > 
 > My Terminal environmet
-> > Ubuntu 22.04
+> > Oh-My-Zsh + P10K
 > > 
-> > Manjaro Linux
+> > You can take out some of the line within the script, and use it as Alias as well
 
 
 <!--
