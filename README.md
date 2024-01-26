@@ -1,14 +1,15 @@
 # Scripts Goodies
 #### Hey all :)
-
-#### Sometimes I find it difficult to find a good and nice Bash scripts online 
-#### Here in Script-Goodies page, I will try to publish my Bash script that I'm creating on a daily basis as a DevOps 
-#### Some of the Script I made by myself, some of them I find online and re-structuring them in the way that is fits to me
+#### Sometimes I find it difficult to find a good and nice Bash scripts online.
+#### Here, in Scripts-Goodies page, I will try to publish my Bash script that I create on a daily basis as a DevOps.
+#### Some of the Scripts I made by myself, some of them I find online and re-structuring them in the way that is suits to me.
 
 > [!NOTE]  
 > I'm working in front of Ubuntu Linux and Manjaro Linux
 > 
 > No ChatGPT
+>
+> Feel free to Fork \ Copy
 
 
 > [!TIP]
@@ -20,7 +21,7 @@
 > My Terminal environmet
 > > Oh-My-Zsh + P10K
 > > 
-> > You can take out some of the line within the script, and use it as Alias as well
+> > You can take out some of the line within the scripts, and use it as Alias as well
 
 
 <!--
