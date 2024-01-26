@@ -1,11 +1,9 @@
 # Scripts Goodies
-> :bulb: Hey all :)
-> 
-> Sometimes I find it difficult to find a good and nice Bash scripts online
-> 
-> Here in Script-Goodies page, I will try to publish my Bash script that I'm creating on a daily basis as a DevOps
-> 
-> Some of the Script I made by myself, some of them I find online and re-structuring them in the way that is fits to me
+#### Hey all :)
+
+#### Sometimes I find it difficult to find a good and nice Bash scripts online 
+#### Here in Script-Goodies page, I will try to publish my Bash script that I'm creating on a daily basis as a DevOps 
+#### Some of the Script I made by myself, some of them I find online and re-structuring them in the way that is fits to me
 
 > [!NOTE]  
 > I'm working in front of Ubuntu Linux and Manjaro Linux
