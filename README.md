@@ -12,9 +12,16 @@
 
 
 > [!TIP]
-> I'm working in front of Ubuntu Linux and Manjaro Linux
+> My Working Machines
+> > Ubuntu 22.04
+> > 
+> > Manjaro Linux
 > 
-> ChatGPT free
+> My Terminal environmet
+> > Oh-My-Zsh + P10K
+> > 
+> > You can take out some of the line within the script, and use it as Alias as well
+
 
 <!--
 
