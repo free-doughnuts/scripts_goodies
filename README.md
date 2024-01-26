@@ -14,7 +14,7 @@
 
 > [!TIP]
 > My Working Machines
-> > Ubuntu 22.04
+> > Ubuntu 22.04 LTS
 > > 
 > > Manjaro Linux
 > 
