@@ -18,15 +18,15 @@ bold_red_prefix="\033[0;31m"
 bold_red_suffix="\033[00m"
 
 #####[the_commands_for_dpkg]#####
-echo "\e[1;46m RUNNING: apt update \e[0m"
+echo "\e[1;46m EXECUTING: apt update \e[0m"
 echo "${blue_bg}${reset}"
 	apt update
 
-echo "\e[1;46m RUNNING: apt list --upgradable \e[0m"
+echo "\e[1;46m EXECUTING: apt list --upgradable \e[0m"
 echo "${blue_bg}${reset}"
 	apt list --upgradable
 	
-echo "\e[1;46m RUNNING: apt upgrade, Please confirm \e[0m"
+echo "\e[1;46m EXECUTING: apt upgrade, Please confirm \e[0m"
 echo "${blue_bg}${reset}"
 	apt upgrade
 
@@ -43,7 +43,7 @@ echo "\n"
 	sleep 2s
 
 #####[checking_for_unnecessary_packages]#####
-echo "\e[1;46m RUNNING: apt autoremove ? \e[0m"
+echo "\e[1;46m EXECUTING: apt autoremove ? \e[0m"
 echo "${blue_bg}${reset}"
 	apt autoremove
 
