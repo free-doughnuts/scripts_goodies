@@ -43,7 +43,7 @@ echo "\n"
 	sleep 2s
 
 #####[checking_for_unnecessary_packages]#####
-echo "\e[1;46m EXECUTING: apt autoremove ? \e[0m"
+echo "\e[1;46m EXECUTING: apt autoremove \e[0m"
 echo "${blue_bg}${reset}"
 	apt autoremove
 
