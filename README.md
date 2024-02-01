@@ -6,18 +6,11 @@
 #### I made some of the scripts by myself, some of them I find online, and restructure them in a way that suits me.
 
 # My Working Machine Are:
-Ubuntu Linux and Manjaro Linux
+### Ubuntu Linux and Manjaro Linux
 
 # 
 > [!TIP]
-> My Working Machines
-> > Ubuntu 22.04 LTS
-> > 
-> > Manjaro Linux
 > 
-> My Terminal environmet
-> > Oh-My-Zsh + P10K
-> > 
 > > You can take out some of the line within the scripts, and use it as Alias as well
 >
 > > Feel free to Fork \ Copy
