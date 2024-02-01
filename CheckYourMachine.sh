@@ -2,11 +2,12 @@
 
 
 # This script is executing the following Ubuntu Commands in one run:
-# 1 - apt update 						> To run the resolver for updating the current state list
+
+# 1 - apt update > To run the resolver for updating the current state list
 # 2 - apt list --upgradable > To show you which packages is going to hit by the upgrade
-# 3 - apt upgrade						> Upgrading the current package to the new version
-# 4 - exeuting 2nd script 	> To check if your machine is need to reboot (reboot is not necessary if there is no Kernel Update)
-# 5 - apt autoremove 				> Removing packages that are not needed by the system
+# 3 - apt upgrade > Upgrading the current package to the new version
+# 4 - exeuting 2nd script > To check if your machine is need to reboot (reboot is not necessary if there is no Kernel Update)
+# 5 - apt autoremove > Removing packages that are not needed by the system
 
 
 #####[ansi_colors_background_code]#####
