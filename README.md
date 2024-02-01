@@ -6,7 +6,7 @@
 #### I made some of the scripts by myself, some of them I find online, and restructure them in a way that suits me.
 
 # My Working Machine Are:
-> > Ubuntu Linux and Manjaro Linux
+Ubuntu Linux and Manjaro Linux
 
 # 
 > [!TIP]
