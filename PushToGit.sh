@@ -27,7 +27,7 @@ echo "${RED}==========FILES HAS BEEN COMMITED==========${ENDCOLOR}"
 git status
 sleep 5s
 
-echo "${GREEN}==========Exeuting 'git push -f' For You==========${ENDCOLOR}"
+echo "${GREEN}==========Exceuting 'git push -f' For You==========${ENDCOLOR}"
 git push -f
 
 
