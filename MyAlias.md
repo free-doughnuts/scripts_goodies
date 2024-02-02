@@ -12,7 +12,7 @@
 # 
 
 ### How to add an Alias to your machine ?
-
+#
 1 - Open the file .bashrc \ .zshrc with your Text Editor (Vim \ Gedit \ Nano)
 2 - Go to to bottom of the file, and add the title: # My Aliases
 3 - Copy the relevent Alias from the table above
