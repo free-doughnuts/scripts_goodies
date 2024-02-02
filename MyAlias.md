@@ -1,5 +1,6 @@
-# $${\color{red}This \space \color{red}are \space \color{red}my \space \color{red}aliases \space \color{red}I \space \space \color{red}used \space \color{red}on \space \color{red}daily \space \color{red}basis}$$
+# $${\color{red}This \space \color{red}are \space \color{red}my \space \color{red}aliases \space \color{red}I \space \color{red}used \space \color{red}on \space \color{red}daily \space \color{red}basis}$$
 
+# ## $${\color{Cyan}Feel \space \color{Cyan}Free \space \color{Cyan}To \space \color{Cyan}Copy \space \color{Cyan}Or \space \color{Cyan}Share}$$
 
 | The Alias | Description |
 | --- | --- |
