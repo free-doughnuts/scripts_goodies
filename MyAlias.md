@@ -1,4 +1,4 @@
-# # $${\color{red}This \space \color{red}are \space \color{red}my \space \color{red}aliases \space \color{red}I \space \space \color{red}used \space \color{red}on \space \color{red}daily \space \color{red}basis}$$
+# $${\color{red}This \space \color{red}are \space \color{red}my \space \color{red}aliases \space \color{red}I \space \space \color{red}used \space \color{red}on \space \color{red}daily \space \color{red}basis}$$
 
 
 | The Alias | Description |
