@@ -13,12 +13,12 @@
 
 ### How to add an Alias to your machine ?
 
->> 1 - Open the file .bashrc \ .zshrc with your Text Editor (Vim \ Gedit \ Nano)
->
->> 2 - Go to to bottom of the file, and add the title: # My Aliases
->
->> 3 - Copy the relevent Alias from the table above
->
->> 4 - Paste the Alias under the title
->
->> 5 - Restart your Terminal, Or reload it with the command: `source ~/.bashrc`
+1. Open the file `.bashrc` \ `.zshrc` with your Text Editor (Vim \ Gedit \ Nano)
+
+2. Go to to bottom of the file, and add the title: ___# My Aliases___
+
+3. Copy the relevent Alias from the table above
+
+4. Paste the Alias under the title
+
+5. Restart your Terminal, Or reload it with the command: `source ~/.bashrc`
