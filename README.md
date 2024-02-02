@@ -11,6 +11,14 @@
 
 # 
 
+# How to use scripts_goodies ?
+1. Git clone or copy the desired code
+2. Make the file executible by `chmod +x` The_Script_File.sh
+3. Launch the script by the command ./The_Script_File.sh
+4. Take a bite from your donut and a little sip from you coffee 🍩 ☕
+
+#
+
 > [!TIP]
 > 
 > > You can take out some of the line within the scripts, and use it as an Alias as well
