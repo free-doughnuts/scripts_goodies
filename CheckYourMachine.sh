@@ -28,32 +28,34 @@ bold_red_prefix="\033[0;31m"
 bold_red_suffix="\033[00m"
 
 #####[the_commands_for_dpkg]#####
-echo "\e[1;46m EXECUTING: apt update \e[0m"
+echo "\e[1;46m Executing 'apt update' For You \e[0m"
+	sleep 3s
 echo "${blue_bg}${reset}"
 	apt update
 
-echo "\e[1;46m EXECUTING: apt list --upgradable \e[0m"
+echo "\e[1;46m Executing 'apt list --upgradable' For You \e[0m"
+	sleep 3s
 echo "${blue_bg}${reset}"
 	apt list --upgradable
-	
-echo "\e[1;46m EXECUTING: apt upgrade, Please confirm \e[0m"
+
+echo "\e[1;46m Executing 'apt upgrade' For You → Please Confirm \e[0m"
 echo "${blue_bg}${reset}"
 	apt upgrade
 
 #####[is_reboot_requered]#####
-echo "\e[1;46m IS SYSTEM REBOOT REQUIRED ? \e[0m"
+echo "\e[1;46m Checking For You If System Reboot Is required ? \e[0m"
 if [ -f /var/run/reboot-required ]; then
   echo "\e[1;41m Yes, Reboot is required please ! \e[0m"
 else
 	echo "\e[1;42m No, Reboot isn't requirt at this moment :) \e[0m"
 fi
 
-echo "\e[1;45m Please Wait a sec \e[0m"
+echo "\e[1;45m Please Wait \e[0m"
 echo "\n"
-	sleep 2s
+	sleep 3s
 
 #####[checking_for_unnecessary_packages]#####
-echo "\e[1;46m EXECUTING: apt autoremove \e[0m"
+echo "\e[1;46m Executing 'apt autoremove' For You \e[0m"
 echo "${blue_bg}${reset}"
 	apt autoremove
 
