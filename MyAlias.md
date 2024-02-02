@@ -15,10 +15,10 @@
 
 1. Open the file `.bashrc` \ `.zshrc` with your Text Editor (Vim \ Gedit \ Nano)
 
-2. Go to to bottom of the file, and add the title: ___# My Aliases___
+2. Scroll down to the very bottom of the file, and add the title: ___# My Aliases___
 
 3. Copy the relevent Alias from the table above
 
 4. Paste the Alias under the title
 
-5. Restart your Terminal, Or reload it with the command: `source ~/.bashrc`
+5. Restart your Terminal, or Reload its configuration by the command: `source ~/.bashrc`
