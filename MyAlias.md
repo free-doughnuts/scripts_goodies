@@ -8,3 +8,17 @@
 | `alias show_net_details='nmcli device show eno1'` | ___Show all details for the given NIC___ |
 | `alias hist='history -f'` | ___Show historical commands with date & time signature___ |
 | `alias cc='clear'` | ___Clear the terminal___ |
+
+# 
+
+### How to add an Alias to your machine ?
+
+1. Open the file `.bashrc` \ `.zshrc` with your Text Editor (Vim \ Gedit \ Nano)
+
+2. Scroll down to the very bottom of the file, and add the title: ___# My Aliases___
+
+3. Copy the relevent Alias from the table above
+
+4. Paste the Alias under the title
+
+5. Restart your Terminal, or Reload its configuration by the command: `source ~/.bashrc`
