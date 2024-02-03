@@ -2,10 +2,10 @@
 
 > [!TIP]
 > 
-> > ___An addition to Zsh, We will also add:___
+> - ___An addition to Zsh, We will also add:___
 >
-> > > P10K
+> > P10K
 >
-> > > Cargo (For LSD Commands)
+> > Cargo (For LSD Commands)
 >
-> > > FzF (For Fuzzy Reverse Commands Finder)
+> > FzF (For Fuzzy Reverse Commands Finder)
