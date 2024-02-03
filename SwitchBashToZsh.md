@@ -2,7 +2,7 @@
 
 > [!TIP]
 > 
-> - ___An addition to Zsh, We will also add:___
+- ___An addition to Zsh, We will also add:___
 >
 > > P10K
 >
