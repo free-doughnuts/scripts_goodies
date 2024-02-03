@@ -9,6 +9,8 @@
 # The "h" flag = (human) show output that readable to humen
 # The "--info=progress2" flag = (progress) show progress on-the-fly
 
+# Replace the Source_Directory and the Destination_Directory with your Directories Name & Path
+
 # The Alias
  Rsync_Src_To_Des='rsync -rvchP --info=progress2 Source_Directory/ Destination_Directory'
 
