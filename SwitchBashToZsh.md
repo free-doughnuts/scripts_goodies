@@ -1,4 +1,4 @@
-# How to switch from default Bash to Zsh
+# How To Switch From Default Bash To Zsh
 
 > [!TIP]
 > 
@@ -9,3 +9,5 @@
 > - Cargo (For LSD Commands)
 >
 > - FzF (For Fuzzy Reverse Commands Finder)
+
+Step 1 - Install Zsh by the command ``sudo apt install zsh``
