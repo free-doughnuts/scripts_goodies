@@ -19,7 +19,7 @@ ___Step 3___ - Make Zsh to be your Default shell by the command ``chsh -s /usr/b
 
 > [!TIP]
 > 
-> ___Sometimes switching between the shells is not applying in real-time ___
+> ___Sometimes switching between the shells is not applying in real-time___
 >
 > ___Logout and login will reload Zsh as the Default Shell___
 
