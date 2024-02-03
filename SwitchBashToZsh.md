@@ -21,7 +21,8 @@ zsh --version
 ```
 
 ___Step 3___ - Make Zsh to be your Default shell by the command
-```chsh -s /usr/bin/zsh
+```
+chsh -s /usr/bin/zsh
 ```
 
 
@@ -33,11 +34,13 @@ ___Step 3___ - Make Zsh to be your Default shell by the command
 
 
 ___Step 4___ - Let's apply Oh-My-Zsh framework by the command
-```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 ```
 
 ___Step 5___ - Let's open .zshrc with any editor by the command (For this tutorial, I will go with: gedit)
-```gedit ~/.zshrc
+```
+gedit ~/.zshrc
 ```
 
 ___Step 6___ - 
