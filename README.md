@@ -18,6 +18,10 @@
 
 > [!TIP]
 > 
-> > You can take out some of the line within the scripts, and use it as an Alias as well
+> - You can take out some of the line within the scripts, and use it as an Alias as well
 >
-> > Feel free to Fork \ Copy
+> - Feel free to Fork \ Copy
+>
+> - I'm also sharing here my Aliases that I use on daily basis on ___MyAlias.md___ file
+>
+> - You can also view the ___Draft___ branch, to view Scripts or Changes that still in-pregress that I didn't pushed yet
