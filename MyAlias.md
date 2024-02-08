@@ -8,7 +8,7 @@
 | `alias show_net_details='nmcli device show eno1'` | ___Show all details for the given NIC___ |
 | `alias h='history -f'` | ___Show historical commands with date & time signature___ |
 | `alias cc='clear'` | ___Clear the terminal___ |
-| `alias Rsync_Src_To_Des='rsync -rvchP --info=progress2 Source_Directory/ Destination_Directory'` | ___Sync to Add changes based on Checksum, And show Progress___ |
+| `alias rsync_src_to_des='rsync -rvchP --info=progress2 Source_Directory/ Destination_Directory'` | ___Sync to Add changes based on Checksum, And show Progress___ |
 
 # 
 
