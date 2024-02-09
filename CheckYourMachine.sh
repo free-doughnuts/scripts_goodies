@@ -9,6 +9,8 @@
 # 4 - exeuting 2nd script > To check if your machine is need to reboot (reboot is not necessary if there is no Kernel Update)
 # 5 - apt autoremove > Removing packages that are not needed by the system
 
+# In case that the Background or the Banners color aren't working, Please add the flag "-e" after every "echo"
+
 
 #####[ansi_colors_background_code]#####
 red="\e[0;91m"
