@@ -9,6 +9,7 @@
 | `alias h='history -f'` | ___Show historical commands with date & time signature___ |
 | `alias cc='clear'` | ___Clear the terminal___ |
 | `alias rsync_src_to_des='rsync -rvchP --info=progress2 Source_Directory/ Destination_Directory'` | ___Sync to Add changes based on Checksum, And show Progress___ |
+| `alias show_sys_up_app_list='service --status-all |grep +'` | ___Show all applications that statrs on boot___ |
 
 # 
 
