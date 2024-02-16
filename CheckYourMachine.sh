@@ -47,7 +47,6 @@ echo "${blue_bg}${reset}"
 #####[is_reboot_requered]#####
 echo "\e[1;46m Checking For You If System Reboot Is required ? \e[0m"
 echo "\e[1;45m Please Wait \e[0m"
-echo "\n"
 	sleep 3s
 
 if [ -f /var/run/reboot-required ]; then
@@ -55,6 +54,8 @@ if [ -f /var/run/reboot-required ]; then
 else
 	echo "\e[1;42m No, Reboot isn't required at this moment :) \e[0m"
 fi
+
+echo "\n"
 
 #####[checking_for_unnecessary_packages]#####
 echo "\e[1;46m Executing 'apt autoremove' For You \e[0m"
