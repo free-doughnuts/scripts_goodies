@@ -9,7 +9,7 @@
 # 4 - exeuting 2nd script > To check if your machine is need to reboot (reboot is not necessary if there is no Kernel Update)
 # 5 - apt autoremove > Removing packages that are not needed by the system
 
-# In case that the Background or the Banners color aren't working properly, Please add the flag "-e" after every "echo" to enable interpretation
+# In case that the Background or the Banners color aren't displayed correctly, Please add the flag "-e" after every "echo" to enable interpretation
 # Example Before: echo "\e[1;46m Executing 'apt update' For You \e[0m"
 # Example After: echo -e "\e[1;46m Executing 'apt update' For You \e[0m"
 
