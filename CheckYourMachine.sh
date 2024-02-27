@@ -56,14 +56,14 @@ if [ -f /var/run/reboot-required ]; then
 else
 	echo "\e[1;42m No, Reboot isn't required at this moment :) \e[0m"
 fi
-
+	sleep 3s
 echo "\n"
 
 #####[checking_for_unnecessary_packages]#####
 echo "\e[1;46m Executing 'apt autoremove' For You \e[0m"
+	sleep 3s
 echo "${blue_bg}${reset}"
 	apt autoremove
-
 
 
 
